@@ -1,4 +1,4 @@
-# A study on SMS Spam Classification using Naive Bayes.
+# A study on Credit Card Fraud Classification using Naive Bayes.
 This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
