@@ -38,7 +38,7 @@ Output (0: Not Fraud, 1: Fraud)
 
 ### Instructions
 1. Downloaded the [dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud/home).
-2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Naive_Bayes_Spam_Classification/blob/master/Naive%20Bayes%20-%20Spam%20Classifier.ipynb).
+2. Run and execute the [IPython](https://github.com/zhenyu92/ML_Naive_Bayes_Credit_Card_Fraud_Classification/blob/master/Naive%20Bayes%20-%20Credit%20Card%20Fraud%20Detection.ipynb).
     The following will be covered, and return a prediction.
     ```
     1 Importing Relevant Libraries
@@ -50,8 +50,9 @@ Output (0: Not Fraud, 1: Fraud)
     5 Select and Train a Model
       5.1 Naive Bayes Model
     6 Apply Model on Test Set
+    7 Improving the Model
     ```   
-
+    
 ### Model Performance
 The model has an average `Precision` and `Recall` of 99%.
-![alt text](https://github.com/zhenyu92/ML_Naive_Bayes_Spam_Classification/blob/master/Confusion%20Matrix.JPG "Confusion Matrix")
+![alt text](https://github.com/zhenyu92/ML_Naive_Bayes_Credit_Card_Fraud_Classification/blob/master/Confusion%20Matrix.JPG "Confusion Matrix")
